@@ -1,0 +1,2 @@
+month;year;teamName;purpose;criticality;prodBugs;closedTasks;testBugs;testingTime;leadTime;changesLeadTime;releases;failures;mttr
+9;2026;Payments;Платежи;BestEfforts;5;100;30;200;1000;50;40;1;30
